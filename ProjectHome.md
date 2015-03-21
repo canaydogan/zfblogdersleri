@@ -1,0 +1,1 @@
+Zend Framework kullanarak basit bir blog oluşturuyoruz.
